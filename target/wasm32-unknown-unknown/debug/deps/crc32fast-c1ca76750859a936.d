@@ -1,0 +1,11 @@
+C:\Users\bogda\Angular\Udemy - Complete Angular Developer Course\rust-project\target\wasm32-unknown-unknown\debug\deps\crc32fast-c1ca76750859a936.rmeta: C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs
+
+C:\Users\bogda\Angular\Udemy - Complete Angular Developer Course\rust-project\target\wasm32-unknown-unknown\debug\deps\libcrc32fast-c1ca76750859a936.rlib: C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs
+
+C:\Users\bogda\Angular\Udemy - Complete Angular Developer Course\rust-project\target\wasm32-unknown-unknown\debug\deps\crc32fast-c1ca76750859a936.d: C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs
+
+C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\lib.rs:
+C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\baseline.rs:
+C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\combine.rs:
+C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\specialized\mod.rs:
+C:\Users\bogda\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.2\src\table.rs:
